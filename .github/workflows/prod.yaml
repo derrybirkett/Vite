@@ -4,7 +4,7 @@ name: Production deploy
 # Trigger the workflow on push to the main branch
 on:
   push:
-    branches: 
+    branches:
       - main
 
 # List of jobs
